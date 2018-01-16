@@ -15,9 +15,14 @@
 
 # In order to ensure that the game is not too difficult, the computer will only propose words that have at least 5 possible valid anagrams.
 
-<img src="https://github.com/nishittated/Android-Anagram/blob/master/anagrams.png" alt="Anagram pic">
+<img src="https://github.com/nishittated/Android-Anagram/blob/master/anagrams.png" alt="Anagram pic" align="middle"/>
 
-Download from here: https://github.com/nishittated/Android-Anagram
+# Download from here: https://github.com/nishittated/Android-Anagram
+
+# Future Enhancements
+* Two-letter mode: switch to allowing the user to add two letters to form anagrams.
+* Optimize word selection by removing words that do not have enough anagrams from the pool of possible starter words. Note that those words should still remain in wordSet since they can still be used as anagrams to other words.
+* Two-word mode: Allow the user to add one letter to a pair of words to form two new valid words.
 
 # Find this project useful? ❤️
 * Support it by clicking the ⭐️ button on the upper right of this page. ✌️
