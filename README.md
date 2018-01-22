@@ -1,6 +1,6 @@
 # Android-Anagram
 
-# Creating an Android app for a simple Anagram game.
+# Created an Android app for a simple Anagram game.
 
 # Anagram
 * An anagram is a word formed by rearranging the letters of another word. 
