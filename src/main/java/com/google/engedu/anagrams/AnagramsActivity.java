@@ -62,7 +62,7 @@ public class AnagramsActivity extends AppCompatActivity {
         });
     }
 
-    private void processWord(EditText editText) {
+    private void processWord(EditText editText) { 
         TextView resultView = (TextView) findViewById(R.id.resultView);
         String word = editText.getText().toString().trim().toLowerCase();
         if (word.length() == 0) {
