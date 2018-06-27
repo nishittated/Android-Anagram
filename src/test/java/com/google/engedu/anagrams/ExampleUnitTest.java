@@ -1,7 +1,6 @@
 package com.google.engedu.anagrams;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
